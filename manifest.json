@@ -1,11 +1,11 @@
 {
-    "name": "admin_panel",
-    "short_name": "admin_panel",
+    "name": "Pakistan TV",
+    "short_name": "Pakistan TV",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#EF0072",
+    "theme_color": "#EF0072",
+    "description": "Pakistan TV Admin Panel",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
